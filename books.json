@@ -1,0 +1,18 @@
+{
+"books"
+[
+{"authors":["Buchman S."],"price":21.99,"sales":566,"pages":107,"type":"history","pub_name":"Abatis Publishers","title_name":"1977!"}
+{"authors":["Buchman S."],"price":19.95,"sales":9566,"pages":14,"type":"history","pub_name":"Schadenfreude Press","title_name":"200 Years of German Humor"}
+{"authors":["Kells C."],"price":39.95,"sales":25667,"pages":1226,"type":"computer","pub_name":"Core Dump Books","title_name":"Ask Your System Administrator"}
+{"authors":["Hull H.","Hull K."],"price":12.99,"sales":13001,"pages":510,"type":"psychology","pub_name":"Abatis Publishers","title_name":"But I Did It Unconsciously"}
+{"authors":["Hull K."],"price":6.95,"sales":201440,"pages":201,"type":"psychology","pub_name":"Abatis Publishers","title_name":"Exchange of Platitudes"}
+{"authors":["Heydemark W."],"price":19.95,"sales":11320,"pages":473,"type":"biography","pub_name":"Abatis Publishers","title_name":"How About Never?"}
+{"authors":["Heydemark W.","Hull K."],"price":23.95,"sales":1500200,"pages":333,"type":"biography","pub_name":"Schadenfreude Press","title_name":"I Blame My Mother"}
+{"authors":["Kellsey"],"price":10.0,"sales":4095,"pages":86,"type":"children","pub_name":"Abatis Publishers","title_name":"Just Wait Until After School"}
+{"authors":["Kellsey"],"price":13.95,"sales":5000,"pages":22,"type":"children","pub_name":"Abatis Publishers","title_name":"Kiss My Boo-Boo"}
+{"authors":["Heydemark W."],"price":0.0,"sales":0,"pages":0,"type":"biography","pub_name":"Abatis Publishers","title_name":"Not Without My Faberge Egg"}
+{"authors":["Kellsey","Hull H.","Hull K."],"price":7.99,"sales":94123,"pages":826,"type":"psychology","pub_name":"Abatis Publishers","title_name":"Perhaps It's a Glandular Problem"}
+{"authors":["Heydemark W."],"price":12.99,"sales":100001,"pages":507,"type":"biography","pub_name":"Abatis Publishers","title_name":"Spontaneous, Not Annoying"}
+{"authors":["Buchman S."],"price":29.99,"sales":10467,"pages":802,"type":"history","pub_name":"Schadenfreude Press","title_name":"What Are The Civilian Applications?"}
+]
+}
